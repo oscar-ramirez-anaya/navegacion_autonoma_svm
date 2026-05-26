@@ -1,0 +1,39 @@
+# Mundo de Webots (proporcionado por el profesor)
+worlds/
+
+# Runtime config de Webots (contiene rutas locales)
+controllers/*/runtime.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Modelo entrenado (regenerable con train_pedestrian_svm.py)
+# Descomentar si el .pkl es muy grande para el repo:
+# svm_training/model/*.pkl
+
+# Dataset INRIA (se descarga aparte)
+svm_training/INRIAPerson/
+svm_training/dataset/

@@ -457,6 +457,8 @@ El modelo entrenado con HOG+SVM logra clasificar correctamente peatones vs. no-p
 
 ### 8.2 Simulacion en Webots
 
+![Deteccion de peaton en Webots](screenshots/webots_deteccion_peaton.png)
+
 El controlador integrado demuestra las siguientes capacidades:
 
 - **Seguimiento de carril:** El vehiculo sigue la linea amarilla del camino usando el control PID, manteniendo una trayectoria estable a 30 km/h.

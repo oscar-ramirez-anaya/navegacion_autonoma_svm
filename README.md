@@ -485,7 +485,7 @@ Como trabajo futuro, se podria explorar el uso de redes neuronales convolucional
 
 ## 10. Video demostrativo
 
-[Enlace al video en YouTube](https://youtube.com/) *(pendiente de subir)*
+[Enlace al video en YouTube](https://youtube.com/watch?v=qSHO4qRqFFQ&feature=youtu.be&themeRefresh=1)
 
 El video muestra:
 - El vehiculo siguiendo el carril con PID
